@@ -753,3 +753,9 @@
             display: none;
         }
     }
+    
+    @media screen and (max-width: 500px) {
+        .mt {
+            margin-top: 12px;
+        }
+    }
