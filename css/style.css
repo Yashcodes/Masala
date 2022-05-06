@@ -713,6 +713,11 @@
         margin-bottom: 0px;
     }
     
+    .catg-mdl-title {
+        color: #9f4103;
+        font-weight: bold;
+    }
+    
     @media (max-width: 991.5px) {
         .col-lg-4 {
             margin-top: 40px;
